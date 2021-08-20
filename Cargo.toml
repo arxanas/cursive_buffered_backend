@@ -1,5 +1,5 @@
 [package]
-name = "cursive_buffered_backend"
+name = "cursive_buffered_backend-git-branchless"
 version = "0.5.1-pre"
 authors = ["Alexander Gavrilov <agavrilov@users.noreply.github.com>"]
 license = "MIT"
